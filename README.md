@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with data and looking forward to get involved in such projects 
 - 🌱 I’m currently learning Machine Learning Basics and Data Science Methodologies.
 - 💞️ I’m looking to collaborate on projects and research work in different Data Science and Machince Learning Fields.
-- 📫 How to reach me: [**Telegram**](t.me/shfarhaan) or [**LinkedIn**](linkedin.com/in/shfarhaan)
+- 📫 How to reach me: [**Telegram**](https://t.me/shfarhaan) or [**LinkedIn**](https://www.linkedin.com/in/shfarhaan/)
 
 
 <!---
